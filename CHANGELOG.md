@@ -8,3 +8,5 @@
 - Changed console colors
 - Updated Logo
 
+### 1.1.7
+- Fixed diagram contrast issue

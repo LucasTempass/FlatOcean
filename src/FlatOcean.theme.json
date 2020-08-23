@@ -1,12 +1,12 @@
 {
   "name": "FlatOcean",
   "dark": true,
-    "author": "Lucas T. Cerveira",
+  "author": "Lucas T. Cerveira",
   "editorScheme": "/FlatOcean.xml",
   "ui": {
     "*": {
       "background": "#282C34",
-      "foreground": "#eeeeee",
+      "foreground": "#c0c0c3",
       "infoForeground": "#dfdfdf",
       "selectionBackground": "#303a45",
       "selectionForeground": "#eeeeee",
@@ -86,7 +86,7 @@
     "DebuggerTabs.underlineHeight": 1,
     "DefaultTabs": {
       "underlineColor": "#eeeeee",
-      "inactiveUnderlineColor": "eeeeee",
+      "inactiveUnderlineColor": "#eeeeee",
       "underlineHeight": 1,
       "hoverBackground": "#303a45"
     },
@@ -325,13 +325,13 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Grey": "#cfcfd6",
+      "Actions.Grey": "#d6d5d5",
       "Actions.Red": "#76e9c2",
       "Actions.Yellow": "#76e9c2",
       "Actions.Green": "#76e9c2",
       "Actions.Blue": "#76e9c2",
-      "Actions.GreyInline.Dark": "#ececee",
-      "Objects.Grey": "#ececee",
+      "Actions.GreyInline.Dark": "#b5b5b5",
+      "Objects.Grey": "#cdcbcb",
       "Objects.RedStatus": "#76e9c2",
       "Objects.Red": "#76e9c2",
       "Objects.Pink": "#9972c8",
@@ -344,7 +344,7 @@
       "Objects.GreenAndroid": "#76e9c2",
       "Checkbox.Background.Default.Dark": "#202831",
       "Checkbox.Border.Default.Dark": "#303a45",
-      "Checkbox.Foreground.Selected.Dark": "#ececee",
+      "Checkbox.Foreground.Selected.Dark": "#949494",
       "Checkbox.Focus.Wide.Dark": "#282C34",
       "Checkbox.Focus.Thin.Default.Dark": "#282C34",
       "Checkbox.Focus.Thin.Selected.Dark": "#282C34",
