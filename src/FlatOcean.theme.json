@@ -3,7 +3,7 @@
   "dark": true,
   "author": "Lucas T. Cerveira",
   "editorScheme": "/FlatOcean.xml",
-  "ui": {
+    "ui": {
     "*": {
       "background": "#282C34",
       "foreground": "#d7d7da",
@@ -14,7 +14,7 @@
       "selectionBackgroundInactive": "#ffffff",
       "disabledBackground": "#282C34",
       "inactiveBackground": "#282C34",
-      "disabledForeground": "#6b7d92",
+      "disabledForeground": "#607083",
       "disabledText": "#6b7d92",
       "inactiveForeground": "#ececee",
       "acceleratorForeground": "#ececee",
@@ -29,6 +29,7 @@
       "separatorColor": "#536171",
       "lineSeparatorColor": "#434e5b"
     },
+    "CompletionPopup.selectionBackground": "#FFFFFF",
     "Menu.foreground": "#FFFFFF",
     "ActionButton": {
       "hoverBackground": "#202831",
@@ -96,8 +97,6 @@
       "areaBorderColor": "#303a45"
     },
     "Editor": {
-      "background": "#282C34",
-      "foreground": "#eeeeee",
       "shortcutForeground": "#6f7a86"
     },
     "EditorPane.inactiveBackground": "#202831",

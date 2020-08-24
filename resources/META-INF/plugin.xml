@@ -1,20 +1,39 @@
 <idea-plugin>
-  <id>com.your.ltc.flatocean.id</id>
-  <name>FlatOcean</name>
-  <version>2.0</version>
-  <vendor email="lucas.tempass@hotmail.com" >Lucas T. Cerveira</vendor>
+    <id>com.your.ltc.flatocean.id</id>
+    <name>FlatOcean</name>
+    <version>2.1</version>
+    <vendor email="lucas.tempass@hotmail.com">Lucas T. Cerveira</vendor>
 
-  <description> A flat theme for JetBrains IDEs for those who can't stand being away from the ocean</description>
+    <description> <![CDATA[
+        <br>
+        <h4> A flat theme for JetBrains IDEs for those who can't stand being away from the ocean.</h4>
+        <br>
+        <p> &gt; Samples:</p>
 
-  <idea-version since-build="191.0"/>
+        <img alt="JAVA" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
 
-  <depends>com.intellij.modules.platform</depends>
+        <img alt="JS" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
 
-  <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="2c90a61b-91ab-4cb6-80ce-fe291b56ac22" path="/FlatOcean.theme.json"/>
-  </extensions>
+        <img alt="JSON" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
 
-  <actions>
-  </actions>
+        <p> &gt; Usage</p>
+        <br>
+        <p>First install the theme via <b>Settings | Plugins</b>, then go to <b>Settings | Appearance &amp; Behavior | Appearance</b> and select <b>FlatOcean</b>. Enjoy.</p>
+
+        <img alt="SETUP" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
+
+    ]]></description>
+
+    <idea-version since-build="191.0"/>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="2c90a61b-91ab-4cb6-80ce-fe291b56ac22" path="/FlatOcean.theme.json"/>
+        <bundledColorScheme id="8ec390b9-2eb6-4010-8072-a4e5f04fe0df" path="/FlatOcean.xml"/>
+    </extensions>
+
+    <actions>
+    </actions>
 
 </idea-plugin>

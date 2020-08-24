@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea
+/out
+.gitignore
+FlatOcean.jar
+FlatOcean.iml
+/production
