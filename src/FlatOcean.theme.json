@@ -6,7 +6,7 @@
   "ui": {
     "*": {
       "background": "#282C34",
-      "foreground": "#c0c0c3",
+      "foreground": "#d7d7da",
       "infoForeground": "#dfdfdf",
       "selectionBackground": "#303a45",
       "selectionForeground": "#eeeeee",
@@ -325,13 +325,13 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Grey": "#d6d5d5",
+      "Actions.Grey": "#ece7e7",
       "Actions.Red": "#76e9c2",
       "Actions.Yellow": "#76e9c2",
       "Actions.Green": "#76e9c2",
       "Actions.Blue": "#76e9c2",
       "Actions.GreyInline.Dark": "#b5b5b5",
-      "Objects.Grey": "#cdcbcb",
+      "Objects.Grey": "#ece7e7",
       "Objects.RedStatus": "#76e9c2",
       "Objects.Red": "#76e9c2",
       "Objects.Pink": "#9972c8",

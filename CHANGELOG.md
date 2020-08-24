@@ -10,3 +10,7 @@
 
 ### 1.1.7
 - Fixed diagram contrast issue
+
+### 2.0
+- Added Python support
+- Updated parent schema
