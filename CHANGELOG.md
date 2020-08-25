@@ -14,3 +14,7 @@
 ### 2.0
 - Added Python support
 - Updated parent schema
+
+### 2.2
+- Updated color scheme
+- Fixed issues
