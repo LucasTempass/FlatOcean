@@ -3,7 +3,7 @@
   "dark": true,
   "author": "Lucas T. Cerveira",
   "editorScheme": "/FlatOcean.xml",
-    "ui": {
+  "ui": {
     "*": {
       "background": "#282C34",
       "foreground": "#d7d7da",
@@ -233,7 +233,7 @@
     "SearchEverywhere": {
       "Tab": {
         "selectedForeground": "#ececee",
-        "selectedBackground": "#60bf9e"
+        "selectedBackground": "#3B9C9C"
       },
       "SearchField.borderColor": "#303a45",
       "Advertiser": {
