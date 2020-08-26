@@ -18,3 +18,7 @@
 ### 2.2
 - Updated color scheme
 - Fixed issues
+
+### 2.4
+- Added C/C++ support
+- Fixed CSS issues

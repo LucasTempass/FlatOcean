@@ -47,7 +47,7 @@
     <option name="FILESTATUS_MODIFIED" value="66c7b7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="88c0d0" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="88c0d0" />
-    <option name="FILESTATUS_UNKNOWN" value="ffb347" />
+    <option name="FILESTATUS_UNKNOWN" value="BEB8BA"/>
     <option name="FILESTATUS_addedOutside" value="478d87" />
     <option name="FILESTATUS_changelistConflict" value="c4bc7b" />
     <option name="FILESTATUS_modifiedOutside" value="478d87" />
@@ -306,7 +306,6 @@
       </value>
     </option>
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
@@ -317,7 +316,6 @@
         <option name="FOREGROUND" value="d4d4d4" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
@@ -364,6 +362,7 @@
         <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
@@ -526,8 +525,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="e68770" />
-        <option name="BACKGROUND" value="2e3440" />
+        <option name="FOREGROUND" value="d3c884" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -667,10 +665,19 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c95c7a" />
         <option name="EFFECT_COLOR" value="bf616a" />
         <option name="ERROR_STRIPE_COLOR" value="bf616a" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4c5970" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4c5970" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -707,7 +714,6 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GHERKIN_TABLE_CELL">
       <value>
         <option name="FOREGROUND" value="73a0a0" />
@@ -745,8 +751,10 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="959595" />
+        <option name="FOREGROUND" value="ded9d9" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="e9e9e9" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -761,9 +769,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="FOREGROUND" value="3b9c9c" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -810,14 +816,24 @@
         <option name="FOREGROUND" value="74f1c6" />
       </value>
     </option>
+    <option name="JS.EXPORTED.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9972c8" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9972c8" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="ff709d" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="81a1c1" />
@@ -861,7 +877,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="ebe293" />
@@ -877,7 +892,6 @@
         <option name="FOREGROUND" value="3ea396" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
@@ -1078,6 +1092,26 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="OC.CONDITIONALLY_NOT_COMPILED">
+      <value>
+        <option name="FOREGROUND" value="e2f7ff" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="6c9aa7" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="59aba2" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="59aba2" />
+      </value>
+    </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
@@ -1162,6 +1196,7 @@
         <option name="FOREGROUND" value="6ee5bc" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.METHOD_CALL">
       <value>
         <option name="FOREGROUND" value="59aba2" />
@@ -1182,6 +1217,7 @@
         <option name="FOREGROUND" value="809fbe" />
       </value>
     </option>
+    <option name="PY.STRING.B" value="ffffff" />
     <option name="RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="dedede" />
@@ -1235,7 +1271,6 @@
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="FOREGROUND" value="c95c7a" />
         <option name="EFFECT_COLOR" value="c95c7a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1480,9 +1515,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ebe293" />
@@ -1506,11 +1541,6 @@
         <option name="EFFECT_COLOR" value="bf616a" />
         <option name="ERROR_STRIPE_COLOR" value="bf616a" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="XML:INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="FOREGROUND" value="3b9c9c" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
@@ -1558,17 +1588,6 @@
     </option>
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4c5970" />
-      </value>
-    </option>
-    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4c5970" />
-      </value>
-    </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
