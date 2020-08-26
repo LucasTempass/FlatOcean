@@ -200,14 +200,6 @@
       "passedColor": "#60bf9e",
       "passedEndColor": "#60bf9e"
     },
-    "ScrollBar": {
-      "thumbColor": "#303a45",
-      "thumbBorderColor": "#303a45",
-      "hoverThumbColor": "#9ca2aa",
-      "hoverThumbBorderColor": "#9ca2aa",
-      "trackColor": "#434e5b",
-      "hoverTrackColor": "#434e5b"
-    },
     "SearchEverywhere": {
       "Tab": {
         "selectedForeground": "#ececee",
