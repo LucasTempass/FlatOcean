@@ -1,26 +1,26 @@
 <idea-plugin>
     <id>com.your.ltc.flatocean.id</id>
     <name>FlatOcean</name>
-    <version>2.5</version>
+    <version>2.7</version>
     <vendor email="lucas.tempass@hotmail.com">Lucas T. Cerveira</vendor>
 
     <description> <![CDATA[
         <br>
-        <h4> A flat theme for JetBrains IDEs for those who can't stand being away from the ocean.</h4>
+        <h1> A flat theme for JetBrains IDEs for those who can't stand being away from the ocean.</h1>
         <br>
-        <p> &gt; Samples:</p>
+        <h2> &gt; Samples:</h2>
 
-        <img alt="JAVA" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
+        <img alt="JAVA" height="120px" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
 
-        <img alt="JS" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
+        <img alt="JS" width="200px" height="120px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
 
-        <img alt="JSON" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
+        <img alt="JSON" width="200px" height="120px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
 
-        <p> &gt; Usage</p>
+        <h2> &gt; Usage</h2>
         <br>
-        <p>First install the theme via <b>Settings | Plugins</b>, then go to <b>Settings | Appearance &amp; Behavior | Appearance</b> and select <b>FlatOcean</b>. Enjoy.</p>
+        <h3>First install the theme via <b>Settings | Plugins</b>, then go to <b>Settings | Appearance &amp; Behavior | Appearance</b> and select <b>FlatOcean</b>. Enjoy.</h3>
 
-        <img alt="SETUP" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
+        <img alt="SETUP" width="200px" height="120px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
     ]]></description>
 
     <idea-version since-build="191.0"/>

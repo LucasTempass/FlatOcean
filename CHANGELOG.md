@@ -22,3 +22,7 @@
 ### 2.4
 - Added C/C++ support
 - Fixed CSS issues
+
+### 2.7
+- New scrollbar
+- More contrast

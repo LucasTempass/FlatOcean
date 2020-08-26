@@ -66,8 +66,8 @@
     },
     "ComboPopup.border": "1,1,1,1,303a45",
     "CompletionPopup": {
-      "foreground": "#c9cbcf",
-      "matchForeground": "#3c7a72",
+      "foreground": "#eeeeee",
+      "matchForeground": "#4daea1",
       "selectionBackground": "#0c1014",
       "selectionInactiveBackground": "#0c1014"
     },
@@ -127,12 +127,22 @@
       "usedBackground": "#202831",
       "allocatedBackground": "#76e9c2"
     },
+    "ScrollBar": {
+      "Transparent": {
+        "thumbColor": "#c1c1c1",
+        "hoverThumbColor": "#eeeeee",
+        "hoverTrackColor" : "#EEEEEE1A"
+      },
+      "thumbColor": "#c1c1c1",
+      "hoverThumbColor": "#eeeeee",
+      "hoverTrackColor" : "#EEEEEE1A"
+    },
     "NavBar.borderColor": "#303a45",
     "Notification": {
       "background": "#202831",
       "errorForeground": "#ececee",
-      "errorBackground": "#c95c7a",
-      "errorBorderColor": "#c95c7a",
+      "errorBackground": "#202831",
+      "errorBorderColor": "#202831",
       "MoreButton.innerBorderColor": "#0c1014",
       "ToolWindow": {
         "informativeForeground": "#ececee",
@@ -142,8 +152,8 @@
         "warningBackground": "#60bf9e",
         "warningBorderColor": "#60bf9e",
         "errorForeground": "#ececee",
-        "errorBackground": "#c95c7a",
-        "errorBorderColor": "#c95c7a"
+        "errorBackground": "#202831",
+        "errorBorderColor": "#202831"
       }
     },
     "ParameterInfo": {

@@ -1,4 +1,6 @@
 <scheme name="FlatOcean" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -19,7 +21,7 @@
     <option name="ADDED_LINES_COLOR" value="19693" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
     <option name="CARET_COLOR" value="d8dee9" />
-    <option name="CARET_ROW_COLOR" value="3b4252" />
+    <option name="CARET_ROW_COLOR" value="3b4252b3" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2e3440" />
     <option name="DELETED_LINES_COLOR" value="ff7070" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="6d9cbe" />
@@ -53,12 +55,12 @@
     <option name="FILESTATUS_modifiedOutside" value="478d87" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="3b4252" />
     <option name="GUTTER_BACKGROUND" value="2e3440" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="6e7b99" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="535d74" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="535d74" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="535d74" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="535d74" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="63c4b" />
     <option name="INFORMATION_HINT" value="434c5e" />
     <option name="LINE_NUMBERS_COLOR" value="4c566a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d8dee9" />
@@ -68,11 +70,27 @@
     <option name="QUESTION_HINT" value="434c5e" />
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_INDENT_GUIDE" value="616e88" />
-    <option name="SELECTED_TEARLINE_COLOR" value="434c5e" />
-    <option name="SELECTION_BACKGROUND" value="4a576d" />
+    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
+    <option name="SELECTION_BACKGROUND" value="53687ebf" />
     <option name="SEPARATOR_ABOVE_COLOR" value="4c566a" />
     <option name="SEPARATOR_BELOW_COLOR" value="4c566a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="eeeeee66" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="eeeeee66" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="c1c1c166" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="c1c1c166" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="939393" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="939393" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="74747c" />
+    <option name="ScrollBar.Mac.thumbColor" value="74747c" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="eeeeee66" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="eeeeee66" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="c1c1c166" />
+    <option name="ScrollBar.Transparent.thumbColor" value="c1c1c166" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="939393" />
+    <option name="ScrollBar.hoverThumbColor" value="939393" />
+    <option name="ScrollBar.thumbBorderColor" value="74747c" />
+    <option name="ScrollBar.thumbColor" value="74747c" />
     <option name="TAB_UNDERLINE" value="88c0d0" />
     <option name="TAB_UNDERLINE_INACTIVE" value="616e88" />
     <option name="TEARLINE_COLOR" value="4c566a" />
@@ -305,7 +323,7 @@
         <option name="FOREGROUND" value="59aba2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="8fbcbb" />
@@ -316,7 +334,7 @@
         <option name="FOREGROUND" value="d4d4d4" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="81a1c1" />
@@ -719,10 +737,10 @@
         <option name="FOREGROUND" value="73a0a0" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_ID" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
     <option name="HANDLEBARS.IDENTIFIERS">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
@@ -741,7 +759,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="415360" />
+        <option name="BACKGROUND" value="445165" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -821,19 +839,16 @@
         <option name="FOREGROUND" value="9972c8" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9972c8" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="ff709d" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="81a1c1" />
@@ -864,7 +879,7 @@
         <option name="FOREGROUND" value="ebe293" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="9972c8" />
@@ -902,7 +917,7 @@
         <option name="FOREGROUND" value="6d9cbe" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="8cbeb7" />
@@ -911,13 +926,13 @@
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="bf616a" />
+        <option name="FOREGROUND" value="e07c87" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="ebcb8b" />
+        <option name="FOREGROUND" value="ebe293" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -930,7 +945,7 @@
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value>
         <option name="BACKGROUND" value="415360" />
-        <option name="EFFECT_COLOR" value="737373" />
+        <option name="EFFECT_COLOR" value="dddcdc" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
@@ -1070,7 +1085,12 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="415360" />
+        <option name="BACKGROUND" value="445165" />
+      </value>
+    </option>
+    <option name="MATCHED_TAG_NAME">
+      <value>
+        <option name="BACKGROUND" value="445165" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -1196,7 +1216,6 @@
         <option name="FOREGROUND" value="6ee5bc" />
       </value>
     </option>
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.METHOD_CALL">
       <value>
         <option name="FOREGROUND" value="59aba2" />
@@ -1217,7 +1236,6 @@
         <option name="FOREGROUND" value="809fbe" />
       </value>
     </option>
-    <option name="PY.STRING.B" value="ffffff" />
     <option name="RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="dedede" />
@@ -1504,9 +1522,7 @@
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="bf616a" />
-      </value>
+      <value />
     </option>
     <option name="Unresolved reference access">
       <value>
@@ -1527,12 +1543,12 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="415360" />
+        <option name="BACKGROUND" value="445165" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="415360" />
+        <option name="BACKGROUND" value="394751" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -1589,6 +1605,4 @@
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
 </scheme>
