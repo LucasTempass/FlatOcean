@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.your.ltc.flatocean.id</id>
     <name>FlatOcean</name>
-    <version>2.2</version>
+    <version>2.3</version>
     <vendor email="lucas.tempass@hotmail.com">Lucas T. Cerveira</vendor>
 
     <description> <![CDATA[
@@ -10,17 +10,17 @@
         <br>
         <p> &gt; Samples:</p>
 
-        <img alt="JAVA" width="400px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
+        <img alt="JAVA" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
 
-        <img alt="JS" width="400px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
+        <img alt="JS" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
 
-        <img alt="JSON" width="400px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
+        <img alt="JSON" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
 
         <p> &gt; Usage</p>
         <br>
         <p>First install the theme via <b>Settings | Plugins</b>, then go to <b>Settings | Appearance &amp; Behavior | Appearance</b> and select <b>FlatOcean</b>. Enjoy.</p>
 
-        <img alt="SETUP" width="400px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
+        <img alt="SETUP" width="200px" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
 
     ]]></description>
 
