@@ -49,7 +49,7 @@
     <option name="FILESTATUS_MODIFIED" value="66c7b7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="88c0d0" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="88c0d0" />
-    <option name="FILESTATUS_UNKNOWN" value="BEB8BA"/>
+    <option name="FILESTATUS_UNKNOWN" value="b0abad" />
     <option name="FILESTATUS_addedOutside" value="478d87" />
     <option name="FILESTATUS_changelistConflict" value="c4bc7b" />
     <option name="FILESTATUS_modifiedOutside" value="478d87" />
@@ -71,7 +71,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="4c566a" />
     <option name="SELECTED_INDENT_GUIDE" value="616e88" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="53687ebf" />
+    <option name="SELECTION_BACKGROUND" value="53687ed9" />
     <option name="SEPARATOR_ABOVE_COLOR" value="4c566a" />
     <option name="SEPARATOR_BELOW_COLOR" value="4c566a" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4c566a" />
@@ -91,8 +91,8 @@
     <option name="ScrollBar.hoverThumbColor" value="939393" />
     <option name="ScrollBar.thumbBorderColor" value="74747c" />
     <option name="ScrollBar.thumbColor" value="74747c" />
-    <option name="TAB_UNDERLINE" value="88c0d0" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="616e88" />
+    <option name="TAB_UNDERLINE" value="b6ffde" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="ffffff" />
     <option name="TEARLINE_COLOR" value="4c566a" />
     <option name="TOOLTIP" value="282c34" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="9e9763" />
@@ -759,7 +759,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="445165" />
+        <option name="BACKGROUND" value="404d5f" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1048,17 +1048,17 @@
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_4">
       <value>
-        <option name="FOREGROUND" value="41876f" />
+        <option name="FOREGROUND" value="58b795" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_5">
       <value>
-        <option name="FOREGROUND" value="316654" />
+        <option name="FOREGROUND" value="58b795" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_6">
       <value>
-        <option name="FOREGROUND" value="306553" />
+        <option name="FOREGROUND" value="5eba9a" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC">
@@ -1070,6 +1070,12 @@
     <option name="MARKDOWN_ORDERED_LIST">
       <value>
         <option name="FOREGROUND" value="6de2ba" />
+      </value>
+    </option>
+    <option name="MARKDOWN_TEXT">
+      <value>
+        <option name="FOREGROUND" value="d8dee9" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="MARKDOWN_UNORDERED_LIST">
@@ -1085,12 +1091,12 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="445165" />
+        <option name="BACKGROUND" value="404d5f" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
       <value>
-        <option name="BACKGROUND" value="445165" />
+        <option name="BACKGROUND" value="404d5f" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -1393,13 +1399,11 @@
     <option name="TAB_SELECTED">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="4c566a" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
-        <option name="BACKGROUND" value="3b4252" />
       </value>
     </option>
     <option name="TAG_ATTR_KEY">
@@ -1543,7 +1547,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="445165" />
+        <option name="BACKGROUND" value="404d5f" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

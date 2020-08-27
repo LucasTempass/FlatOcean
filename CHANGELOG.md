@@ -26,3 +26,7 @@
 ### 2.7
 - New scrollbar
 - More contrast
+
+### 2.8
+- New tabs 
+- Improved markdown

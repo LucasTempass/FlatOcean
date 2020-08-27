@@ -29,6 +29,7 @@
       "separatorColor": "#536171",
       "lineSeparatorColor": "#434e5b"
     },
+    "EditorPane.background" : "#2E3440",
     "CompletionPopup.selectionBackground": "#FFFFFF",
     "Menu.foreground": "#FFFFFF",
     "ActionButton": {
@@ -37,6 +38,7 @@
       "hoverBorderColor": "#303a45",
       "pressedBorderColor": "#303a45"
     },
+    "Editor.background" : "#2E3440",
     "Button": {
       "startBackground": "#202831",
       "endBackground": "#202831",
@@ -51,6 +53,7 @@
         "focusedBorderColor": "#ececee"
       }
     },
+    "EditorTabs.underlinedTabBackground" : "#FFFFFF",
     "Borders": {
       "color": "#303a45",
       "ContrastBorderColor": "#434e5b"
