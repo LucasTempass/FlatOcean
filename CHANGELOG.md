@@ -30,3 +30,6 @@
 ### 2.8
 - New tabs 
 - Improved markdown
+
+### 2.9
+- Fixed error foreground color

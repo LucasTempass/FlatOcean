@@ -29,7 +29,7 @@
       "separatorColor": "#536171",
       "lineSeparatorColor": "#434e5b"
     },
-    "EditorPane.background" : "#2E3440",
+    "EditorPane.background": "#2E3440",
     "CompletionPopup.selectionBackground": "#FFFFFF",
     "Menu.foreground": "#FFFFFF",
     "ActionButton": {
@@ -38,7 +38,7 @@
       "hoverBorderColor": "#303a45",
       "pressedBorderColor": "#303a45"
     },
-    "Editor.background" : "#2E3440",
+    "Editor.background": "#2E3440",
     "Button": {
       "startBackground": "#202831",
       "endBackground": "#202831",
@@ -53,7 +53,7 @@
         "focusedBorderColor": "#ececee"
       }
     },
-    "EditorTabs.underlinedTabBackground" : "#FFFFFF",
+    "EditorTabs.underlinedTabBackground": "#FFFFFF",
     "Borders": {
       "color": "#303a45",
       "ContrastBorderColor": "#434e5b"
@@ -75,10 +75,10 @@
       "selectionInactiveBackground": "#0c1014"
     },
     "Component": {
-      "errorFocusColor": "#f43b6c",
+      "errorFocusColor": "#C95C7A",
       "inactiveErrorFocusColor": "#c95c7a",
       "warningFocusColor": "#ebe293",
-      "inactiveWarningFocusColor": "#f43b6c",
+      "inactiveWarningFocusColor": "#C95C7A",
       "iconColor": "#c9cbcf",
       "hoverIconColor": "#ececee"
     },
@@ -134,11 +134,11 @@
       "Transparent": {
         "thumbColor": "#c1c1c1",
         "hoverThumbColor": "#eeeeee",
-        "hoverTrackColor" : "#EEEEEE1A"
+        "hoverTrackColor": "#EEEEEE1A"
       },
       "thumbColor": "#c1c1c1",
       "hoverThumbColor": "#eeeeee",
-      "hoverTrackColor" : "#EEEEEE1A"
+      "hoverTrackColor": "#EEEEEE1A"
     },
     "NavBar.borderColor": "#303a45",
     "Notification": {
@@ -208,8 +208,8 @@
       "progressColor": "#303a45",
       "indeterminateStartColor": "#ececee",
       "indeterminateEndColor": "#ececee",
-      "failedColor": "#c95c7a",
-      "failedEndColor": "#c95c7a",
+      "failedColor": "#C95C7A",
+      "failedEndColor": "#C95C7A",
       "passedColor": "#60bf9e",
       "passedEndColor": "#60bf9e"
     },
