@@ -8,22 +8,22 @@
 
 > Samples:
 
-![Java](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg)
+![Java](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.png)
 
-![TypeScript](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/TYPESCRIPT.jpg)
+![TypeScript](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/TYPESCRIPT.png)
 
-![JSON](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg)
+![JSON](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.png)
 
-![XML](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/XML.jpg)
+![XML](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/XML.png)
 
-![CSS](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/CSS.jpg)
+![CSS](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/CSS.png)
 
 ## Usage
 
 First install the theme via `Settings | Plugins`, then go to `Settings | Appearance & Behavior | Appearance` and
 select `FlatOcean`. Enjoy.
 
-![Setup](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg)
+![Setup](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.png)
 
 ## Versions:
 
