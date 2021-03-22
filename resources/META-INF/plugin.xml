@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.your.ltc.flatocean.id</id>
     <name>FlatOcean</name>
-    <version>2.9.2</version>
+    <version>2.9.3</version>
     <vendor email="lucas.tempass@hotmail.com">Lucas T. Cerveira</vendor>
 
     <description> <![CDATA[

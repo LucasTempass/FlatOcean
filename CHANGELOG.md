@@ -42,3 +42,7 @@
 ### 2.9
 
 - Fixed error foreground color
+
+### 2.9.3
+
+- Updated JavaScript colors

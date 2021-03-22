@@ -10,13 +10,13 @@
 
 ![Java](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg)
 
-![JS](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg)
+![TypeScript](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/TYPESCRIPT.jpg)
 
 ![JSON](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg)
 
 ![XML](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/XML.jpg)
 
-![Settings](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETTINGS.jpg)
+![CSS](https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/CSS.jpg)
 
 ## Usage
 
