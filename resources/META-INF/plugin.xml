@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.your.ltc.flatocean.id</id>
     <name>FlatOcean</name>
-    <version>2.9.3</version>
+    <version>2.9.4</version>
     <vendor email="lucas.tempass@hotmail.com">Lucas T. Cerveira</vendor>
 
     <description> <![CDATA[
@@ -9,19 +9,18 @@
         <h1> A flat theme for JetBrains IDEs for those who can't stand being away from the ocean.</h1>
         <br>
         <h2> &gt; Samples:</h2>
+        <img width="50%" alt="JAVA" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.png">
 
-        <img width="50%" alt="JAVA" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JAVA.jpg">
+        <img alt="JS" width="50%" height="auto" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.png">
 
-        <img alt="JS" width="50%" height="auto" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JS.jpg">
-
-        <img alt="JSON" width="50%"  src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.jpg">
+        <img alt="JSON" width="50%"  src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/JSON.png">
 
         <h2> &gt; Usage</h2>
         <br>
         <h3>First install the theme via <b>Settings | Plugins</b>, then go to <b>Settings | Appearance &amp; Behavior |
             Appearance</b> and select <b>FlatOcean</b>. Enjoy.</h3>
 
-        <img alt="SETUP" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.jpg">
+        <img alt="SETUP" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/MISC/SETUP.png">
         ]]></description>
 
     <idea-version since-build="191.0"/>

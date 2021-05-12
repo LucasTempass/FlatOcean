@@ -46,3 +46,7 @@
 ### 2.9.3
 
 - Updated JavaScript colors
+
+### 2.9.4
+
+- Fixed readme colors
