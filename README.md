@@ -2,9 +2,9 @@
   <img width="320" src="https://raw.githubusercontent.com/LucasTempass/FlatOcean/master/resources/META-INF/pluginIcon.svg" />
 </p>
 
-# FlatOcean - JetBrains IDE Theme
+# FlatOcean - JetBrain's IDEs Theme
 
-> A flat [theme for JetBrains IDEs ](https://plugins.jetbrains.com/plugin/14914-flatocean/) for those who can't stand being away from the ocean.
+> A flat [theme for JetBrain's IDEs ](https://plugins.jetbrains.com/plugin/14914-flatocean/) for those who can't stand being away from the ocean.
 
 > Samples:
 
@@ -31,4 +31,4 @@ select `FlatOcean`. Enjoy.
 
 ## Download:
 
-[JetBrains MarketPlace](https://plugins.jetbrains.com/plugin/14914-flatocean/)
+[JetBrain's MarketPlace](https://plugins.jetbrains.com/plugin/14914-flatocean/)
